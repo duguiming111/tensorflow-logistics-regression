@@ -1,0 +1,2 @@
+model_checkpoint_path: "E:\\nlp\\tf-lr\\model\\checkpoints\\best_validation"
+all_model_checkpoint_paths: "E:\\nlp\\tf-lr\\model\\checkpoints\\best_validation"
